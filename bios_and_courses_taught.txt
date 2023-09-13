@@ -1,0 +1,48 @@
+
+
+
+Adrian Dobra
+
+Professor, Statistics department
+Specialty Areas: Development of high-dimensional multivariate spatiotemporal models and graphical models.
+MSDS classes 2022-23: DATA 556 (AU22)
+
+
+Megan Hazen
+
+MSDS Capstone Director
+Specialty Areas: Neural networks, intelligent control systems, applied solutions.
+MSDS classes 2022-23: DATA 598 (AU22), DATA 590 (AU22), DATA 591 (WI23)
+
+
+
+
+
+Zaid Harchaoui
+
+Professor, Department of Statistics
+ 
+Specialty Areas: Machine learning, statistical inference, numerical optimization.
+MSDS classes 2022-23: DATA 598 (WI23)
+
+
+Nathan Mannheimer
+
+Staff Product Manager – AI, Cruise
+ 
+Specialty Areas: simulation systems for autonomous vehicle development and testing, intelligent simulation agents, visualization of simulation scenario design and performance.
+MSDS classes 2022-23: DATA 511 (AU22, SU23)
+
+
+
+
+
+David W. McDonald
+
+Professor, Human Centered Design & Engineering
+ 
+ 
+Specialty Areas: Computer-supported cooperative work (CSCW), human-computer interaction (HCI), social computing, collaboration in Wikipedia.
+MSDS classes 2022-23: DATA 512 (AU22)
+
+

@@ -13,12 +13,12 @@ def main():
 
 
 #Open/Create a file named friends.txt
-    file = open('bio1.txt' , 'w')
+    file = open('bios_and_courses_taught.txt' , 'w')
     for result in professor_name:
         new_result = result.text
         file.write((str(new_result)) )
     
-    print('The names were written to bio.txt')
+    print('The names were written to bios_and_courses_taught.txt')
 
     #Close file
     file.close()
@@ -28,14 +28,14 @@ def main():
 
 
     #Open/Create a file named urls
-    file = open('url.txt' , 'w')
+    file = open('bios_url.txt' , 'w')
 
     #Write the urls to the file
     for div in results.find_all('div', class_='tile'):
         file.write(str(div.find('h3').text) + '\t')
         file.write(str(div.find('a')['href']) + '\n')
     
-    print('The urls were written to url.txt')
+    print('The urls were written to bios_url.txt')
 
    
 
