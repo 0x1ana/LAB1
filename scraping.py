@@ -12,7 +12,8 @@ def main():
     
 
 
-#Open/Create a file named friends.txt
+    #I was having trouble separating mini bios from course taught. 
+    # That's why they're in the same file
     file = open('bios_and_courses_taught.txt' , 'w')
     for result in professor_name:
         new_result = result.text
@@ -27,7 +28,7 @@ def main():
    
 
 
-    #Open/Create a file named urls
+    
     file = open('bios_url.txt' , 'w')
 
     #Write the urls to the file
